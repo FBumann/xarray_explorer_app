@@ -1,0 +1,5 @@
+netcdf4>=1.7.2
+pandas>=2.2.3
+plotly>=6.1.0
+streamlit>=1.45.1
+xarray>=2025.4.0
